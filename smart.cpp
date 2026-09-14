@@ -6,7 +6,6 @@
 #define MAX_DISTANCE 20 // Maximum distance threshold for triggering servo (in centimeters)
 
 Servo servo;
-
 void setup() {
   Serial.begin(9600);
   pinMode(TRIGGER_PIN, OUTPUT);
