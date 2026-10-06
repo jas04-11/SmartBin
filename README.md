@@ -1,4 +1,4 @@
-# 🗑️ SmartBin – Arduino-Based Automatic Touchless Dustbin
+# 🗑️ SmartBin – Arduino-Based Automatic Touchless Dustbin 
 
 SmartBin is an **Arduino-based automatic touchless dustbin** that opens and closes its lid automatically when a person brings their hand or an object near the sensor. The system uses an **HC-SR04 ultrasonic sensor** to detect distance and an **SG90 servo motor** to control the dustbin lid.
 
