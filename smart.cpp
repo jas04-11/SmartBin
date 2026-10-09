@@ -4,7 +4,6 @@
 #define ECHO_PIN     10 // Arduino pin connected to the echo pin of ultrasonic sensor
 #define SERVO_PIN    11 // Arduino pin connected to the signal pin of servo motor
 #define MAX_DISTANCE 20 // Maximum distance threshold for triggering servo (in centimeters)
-
 Servo servo;
 void setup() {
   Serial.begin(9600);
